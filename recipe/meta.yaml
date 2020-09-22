@@ -27,9 +27,9 @@ requirements:
 test:
   imports:
     - httpcore
-    - httpcore/_async
-    - httpcore/_backends
-    - httpcore/_sync
+    - httpcore._async
+    - httpcore._backends
+    - httpcore._sync
 
 about:
   home: https://github.com/encode/httpcore
