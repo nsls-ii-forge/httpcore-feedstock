@@ -1,6 +1,6 @@
 {% set name = "httpcore" %}
-{% set version = "0.13.1" %}
-{% set sha256 = "04afd180f35cd576085d45901a39920fb0d5bd93f570525335e3e7e440231f44" %}
+{% set version = "0.13.2" %}
+{% set sha256 = "c16efbdf643e1b57bde0adc12c53b08645d7d92d6d345a3f71adfc2a083e7fd2" %}
 
 package:
   name: {{ name|lower }}
